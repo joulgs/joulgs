@@ -1,16 +1,33 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**joulgs/joulgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá,<br>Me chamo Jonathas Soares e sou um <strong>Desenvolvedor PHP</strong>.<br>
+  Estou no 3º Semestre de <strong>Analise e Desenvolvimento de Sistemas</strong> e trabalhando na <strong>SHARMAQ sistemas</strong> onde faço literalmente de tudo um pouco.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS (Bootstrap 4), JAVASCRIPT, PHP.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Postman, MYSQL Workbench, Git, Docker.</strong>
+</p>
+
+<p align="left">
+  📖 Estudando: <strong>Vue, POO, PSR, Code Clean, Git, Docker, Design Patterns e outras coisinhas.</strong>
+</p>
+
+<p align="left">
+  💌 Me encontre em outros lugares: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joul.gs@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathas-soares-a03b40119" /></a>
+
+  <!--<a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>-->
+</p>  
