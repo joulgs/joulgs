@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  📖 Estudando: <strong>Vue, POO, PSR, Code Clean, Git, Docker, Design Patterns e outras coisinhas.</strong>
+  📖 Estudando: <strong>Vue, POO, PSR, Laravel, Code Clean, Git, Docker, Design Patterns e outras coisinhas.</strong>
 </p>
 
 <p align="left">
