@@ -22,10 +22,10 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:joul.gs@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joul.gs@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="ttps://www.linkedin.com/in/jonathas-soares-a03b40119" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathas-soares-a03b40119" /></a>
 
   <!--<a href="#" alt="WhatsApp">
