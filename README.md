@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá,<br>Me chamo Jonathas Soares e sou um <strong>Desenvolvedor PHP</strong>.<br>
-  Estou no 3º Semestre de <strong>Analise e Desenvolvimento de Sistemas</strong> e trabalhando na <strong>SHARMAQ sistemas</strong> onde faço literalmente de tudo um pouco.
+  Olá,<br>Me chamo Jonathas Soares e sou um <strong>Desenvolvedor Web</strong>.<br>
+  Estou no último Semestre de <strong>Analise e Desenvolvimento de Sistemas</strong> e trabalhando na <strong>SHARMAQ sistemas</strong> onde faço literalmente de tudo um pouco.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS (Bootstrap 4), JAVASCRIPT, PHP, SQL.</strong>
+  🦄 Linguagens/Tecnologias: <strong>HTML, CSS (Bootstrap 4), Javascript, PHP, SQL, VueJS, React Native, Laravel.</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  📖 Estudando: <strong>Vue, POO, PSR, Laravel, Code Clean, Git, Docker, Design Patterns e outras coisinhas.</strong>
+  📖 Estudando: <strong>POO, PSR, Code Clean, Git, Docker, Design Patterns e outras coisinhas.</strong>
 </p>
 
 <p align="left">
