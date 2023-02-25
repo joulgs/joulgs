@@ -1,7 +1,7 @@
 <img src="./comp.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer JoulGS">
 
 
-####Hi there 👋
+<h4>Hi there 👋</h4>
 
 I am a System Analytic and Developer, I have been working with web development for 11 years, I am passionate about technology and I am always looking for new knowledge.
 
