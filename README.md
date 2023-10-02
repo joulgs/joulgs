@@ -16,7 +16,4 @@ I am a System Analytic and Developer, I have been working with web development f
 <p align="left">
   <a href="mailto:joul.gs@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joul.gs@gmail.com" /></a>
-
-  <a href="https://wa.me/5527995328782" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
