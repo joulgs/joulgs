@@ -3,7 +3,7 @@
 
 <h4>Hi there 👋</h4>
 
-I am a System Analytic and Developer, I have been working with web development for 11 years, I am passionate about technology and I am always looking for new knowledge.
+I am a web Systems Analyst and Developer and have been working with web development for over 6 years. I am passionate about technology and I am always looking for new knowledge.
 
 <p align="left">
   🧰  <strong>On my walk I already worked with:</strong> HTML, CSS, Bootstrap, Javascript, JQuery, Typescript, NodeJS, VueJS, ReactJS, React Native, PHP, Wordpress, Laravel, SQL, MySQL, Git, Docker, Linux, Windows, Mac and more.
